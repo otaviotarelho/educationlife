@@ -1,0 +1,1 @@
+﻿<div style="margin:auto; width:100%;"><p align="center">Wings of Hope - Education Life 2012 - Todos os Direitos Reservados - <a href="./faq.php">Ajuda</a> - <a href="http://localhost/sistema/projetos.html">Sobre</a></p></div>
